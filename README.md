@@ -1,2 +1,2 @@
 # Java Projects
-College Projects
+ Projects done in College 
